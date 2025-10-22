@@ -1,9 +1,9 @@
-Pomodoro Timer 🍅
+## Pomodoro Timer 🍅
 
 Pomodoro Timer is a minimalist app designed to help you manage focus and break sessions using the classic Pomodoro technique.
 Perfect for studying, working, or staying productive in short bursts.
 
-⏱️ How It Works
+⏱️ <strong>How It Works</strong>
 
 Each focus session lasts 25 minutes.
 
@@ -13,7 +13,7 @@ Every 4 sessions, a long break automatically begins.
 
 Visual and sound cues indicate when each phase starts and ends.
 
-⚙️ Setup
+⚙️ <strong>Setup</strong>
 
 Install dependencies:
 
